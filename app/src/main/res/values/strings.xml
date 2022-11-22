@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">2018060_MarioPratama</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu"> Description : Material: Cotton Combed 30s, Sablon : Plastisol</string>
+    <string name="ingredients">Original 100% With Premium Guarantee Section.ltd</string>
+    <string name="Resep">Go To See Our Catalog in Instagram : @section.ltd</string>
+    <string name="price">Price :</string>
+    <string name="Harga_Item">Rp.85.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="Item">
+        <item>Section1</item>
+        <item>Section2</item>
+        <item>Section3</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>90.000</item>
+        <item>90.000</item>
+        <item>90.000</item>
+    </string-array>
+</resources>
